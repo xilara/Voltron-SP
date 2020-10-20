@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.siccity.gltfutility": {
-      "version": "file:C:/Users/ppowell1/Documents/Voltron-SP/AstroProject/Packages/GLTFUtility-master/GLTFUtility-master",
+      "version": "file:GLTFUtility-master/GLTFUtility-master",
       "depth": 0,
       "source": "local",
       "dependencies": {
