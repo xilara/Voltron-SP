@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Solar System Model.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: b9b1dd5ca8604124a833a161ea763637
+  - enabled: 1
+    path: Assets/Scenes/SpaceHunt.unity
+    guid: 6a8900488746b1f48845039d646cfb59
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d80b6de99c3876249af2fddf87931c6d,
       type: 2}

@@ -17,7 +17,18 @@ public class ButtonScript : MonoBehaviour
         
     }
 
+    public void LoadSpaceHunt()
+    {
+        SceneManager.LoadScene("SpaceHunt");
+    }
+
     public void LoadSSModel(){
         SceneManager.LoadScene("Solar System Model");
     }
+
+    public void LoadSettings()
+    {
+        SceneManager.LoadScene("Settings");
+    }
+   
 }
