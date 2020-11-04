@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: a32f8dfa63ca43a40b4ccdd578dd5389
+  - enabled: 1
     path: Assets/Scenes/Solar System Model.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
@@ -17,6 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: c3da13cf322403e4794debfb45731503
+  - enabled: 1
+    path: Assets/Scenes/SignInScene.unity
+    guid: 9f5c23cf26aa78041bcc81f5916d43bc
+  - enabled: 1
+    path: Assets/Scenes/SignUpScene.unity
+    guid: 30a7c597aadf8f04188b2c31219febdd
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d80b6de99c3876249af2fddf87931c6d,
       type: 2}
