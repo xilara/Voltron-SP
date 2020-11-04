@@ -1,10 +1,26 @@
 {
   "dependencies": {
+    "com.google.android.appbundle": {
+      "version": "1.3.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
     "com.google.external-dependency-manager": {
       "version": "1.2.161",
       "depth": 2,
       "source": "registry",
       "dependencies": {},
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.firebase.analytics": {
+      "version": "6.16.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.firebase.app": "6.16.1"
+      },
       "url": "https://unityregistry-pa.googleapis.com"
     },
     "com.google.firebase.app": {
@@ -25,12 +41,142 @@
       },
       "url": "https://unityregistry-pa.googleapis.com"
     },
+    "com.google.firebase.crashlytics": {
+      "version": "6.16.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.firebase.app": "6.16.1"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
     "com.google.firebase.database": {
       "version": "6.16.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.google.firebase.auth": "6.16.1"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.firebase.dynamic-links": {
+      "version": "6.16.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.firebase.app": "6.16.1"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.firebase.firestore": {
+      "version": "6.16.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.firebase.app": "6.16.1"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.firebase.functions": {
+      "version": "6.16.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.firebase.app": "6.16.1"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.firebase.instance-id": {
+      "version": "6.16.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.firebase.app": "6.16.1"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.firebase.messaging": {
+      "version": "6.16.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.firebase.app": "6.16.1"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.firebase.remote-config": {
+      "version": "6.16.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.firebase.app": "6.16.1"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.firebase.storage": {
+      "version": "6.16.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.firebase.auth": "6.16.1"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.play.assetdelivery": {
+      "version": "1.3.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.play.common": "1.3.0",
+        "com.google.play.core": "1.3.0"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.play.billing": {
+      "version": "3.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.android.appbundle": "1.3.0",
+        "com.unity.purchasing": "2.1.1"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.play.common": {
+      "version": "1.3.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.google.android.appbundle": "1.3.0"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.play.core": {
+      "version": "1.3.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.google.android.appbundle": "1.3.0"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.play.instant": {
+      "version": "1.3.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.android.appbundle": "1.3.0",
+        "com.google.play.common": "1.3.0"
+      },
+      "url": "https://unityregistry-pa.googleapis.com"
+    },
+    "com.google.play.review": {
+      "version": "1.3.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.play.common": "1.3.0",
+        "com.google.play.core": "1.3.0"
       },
       "url": "https://unityregistry-pa.googleapis.com"
     },
@@ -84,6 +230,15 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.purchasing": {
+      "version": "2.1.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.subsystemregistration": {
