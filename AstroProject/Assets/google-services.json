@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291618073827",
+    "firebase_url": "https://team-voltron-sp.firebaseio.com",
+    "project_id": "team-voltron-sp",
+    "storage_bucket": "team-voltron-sp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291618073827:android:e58e1c245630f558dfa9d6",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.NewUnityProject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291618073827-9cdfdkabrts1gmad8q4qef5i2sqhml48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZx9ntq9YmfSivTUHVLUnJNdBG7NyF45E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291618073827-9cdfdkabrts1gmad8q4qef5i2sqhml48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291618073827-k6mj63i4hq5n6k3v2ircv1p2rgl7290e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.NewUnityProject2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

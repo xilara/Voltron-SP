@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SpaceHunt.unity
     guid: 6a8900488746b1f48845039d646cfb59
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c3da13cf322403e4794debfb45731503
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d80b6de99c3876249af2fddf87931c6d,
       type: 2}

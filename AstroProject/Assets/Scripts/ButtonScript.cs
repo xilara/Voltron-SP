@@ -16,13 +16,17 @@ public class ButtonScript : MonoBehaviour
     {
         
     }
-
+    public void LoadMainMenu()
+    {
+        SceneManager.LoadScene("Menu");
+    }
     public void LoadSpaceHunt()
     {
         SceneManager.LoadScene("SpaceHunt");
     }
 
-    public void LoadSSModel(){
+    public void LoadSSModel()
+    {
         SceneManager.LoadScene("Solar System Model");
     }
 

@@ -267,7 +267,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ab488e20f03d45b4f9aa72f4bf7b3bbe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b904513066e8ee34b8881d8d74ca782c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -411,10 +411,10 @@ RectTransform:
   m_Father: {fileID: 283990121}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -224.93}
-  m_SizeDelta: {x: 191.98462, y: 71.38071}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.0085144, y: -0.0000019073}
+  m_SizeDelta: {x: 484.72888, y: 164.42542}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1103931664
 MonoBehaviour:
@@ -491,7 +491,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 317d63154ed1ebe4f8406943b26cf028, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de46555ff117aae479e9d206579cd207, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -521,7 +521,7 @@ GameObject:
   - component: {fileID: 1123441411}
   - component: {fileID: 1123441410}
   m_Layer: 5
-  m_Name: Text
+  m_Name: '''Info'''
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -568,7 +568,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 64f5536622b2d9946898bf19260e1aff, type: 3}
-    m_FontSize: 20
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -579,7 +579,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Settings
+  m_Text: '
+
+
+    Information'
 --- !u!222 &1123441411
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -812,7 +815,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 64f5536622b2d9946898bf19260e1aff, type: 3}
-    m_FontSize: 20
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -823,7 +826,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Astrodex
+  m_Text: '
+
+
+    Astrodex'
 --- !u!222 &1588938030
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -934,7 +940,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 64f5536622b2d9946898bf19260e1aff, type: 3}
-    m_FontSize: 17
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -945,7 +951,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Space Hunt
+  m_Text: '
+
+
+    Space Hunt'
 --- !u!222 &1747711088
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -988,10 +997,10 @@ RectTransform:
   m_Father: {fileID: 283990121}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -154.04999}
-  m_SizeDelta: {x: 191.98462, y: 72.38074}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.01059, y: 179}
+  m_SizeDelta: {x: 484.7331, y: 163.73653}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1768412360
 MonoBehaviour:
@@ -1068,7 +1077,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 317d63154ed1ebe4f8406943b26cf028, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de46555ff117aae479e9d206579cd207, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1099,7 +1108,7 @@ GameObject:
   - component: {fileID: 1962673445}
   - component: {fileID: 1962673444}
   m_Layer: 5
-  m_Name: Settings
+  m_Name: Info
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1120,10 +1129,10 @@ RectTransform:
   m_Father: {fileID: 283990121}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -0.000015259, y: -296.31}
-  m_SizeDelta: {x: 191.98459, y: 71.38071}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.014877, y: -166}
+  m_SizeDelta: {x: 484.74155, y: 156.10643}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1962673444
 MonoBehaviour:
@@ -1200,7 +1209,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 317d63154ed1ebe4f8406943b26cf028, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de46555ff117aae479e9d206579cd207, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
