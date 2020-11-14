@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Solar System Model.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Settings.unity
+    path: Assets/Scenes/Information.unity
     guid: b9b1dd5ca8604124a833a161ea763637
   - enabled: 1
     path: Assets/Scenes/SpaceHunt.unity

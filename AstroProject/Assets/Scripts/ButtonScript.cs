@@ -30,9 +30,9 @@ public class ButtonScript : MonoBehaviour
         SceneManager.LoadScene("Solar System Model");
     }
 
-    public void LoadSettings()
+    public void LoadInfo()
     {
-        SceneManager.LoadScene("Settings");
+        SceneManager.LoadScene("Information");
     }
    
 }

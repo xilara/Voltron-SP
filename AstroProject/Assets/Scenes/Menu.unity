@@ -1305,7 +1305,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1629973175}
         m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
-        m_MethodName: LoadSettings
+        m_MethodName: LoadInfo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
