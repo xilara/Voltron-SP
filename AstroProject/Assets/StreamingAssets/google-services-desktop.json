@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "553484854450",
+    "firebase_url": "https://space-app-77a34.firebaseio.com",
+    "project_id": "space-app-77a34",
+    "storage_bucket": "space-app-77a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553484854450:android:fb6324f752ba6e3f48d5ab",
+        "android_client_info": {
+          "package_name": "com.Voltron.AstroProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553484854450-46fmacpb0ovaoo89cll3blkbk9ig0opl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOCgeng1H6CMmyQszmXdY6oUclJyj9Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553484854450-46fmacpb0ovaoo89cll3blkbk9ig0opl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

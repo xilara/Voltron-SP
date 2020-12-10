@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 4a62a0d4f55719c48be2684042433c3d
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: c24805a5545af68489e29d34fc94eeb5
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a325e689d397e7742bf4cefb9cbb2bdc
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: a51a95383fc9eeb468c5b0a152e1d22e
+  - enabled: 1
+    path: Assets/Scenes/SignInScene.unity
+    guid: fc502278f5dc9764f96b3c82b518657c
+  - enabled: 1
+    path: Assets/Scenes/SignUpScene.unity
+    guid: b637bc015ee61fb49bb8cd66be95e25d
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/earthScale.unity
+    guid: 533ec78f654377a4997fffa73753959c
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/JupiterScale.unity
+    guid: 0f26c0549efe0aa48adf46d408e599da
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/marsScale.unity
+    guid: f72b3c527efb24045b0a22e9fa141288
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/mercuryScale.unity
+    guid: 0cb3504fa92921044ba9eb4e250dede9
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/NeptuneScale.unity
+    guid: 1edb4be4a21c18d4787009b2fc73c4ee
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/SaturnScale.unity
+    guid: 64f39291aa2d07949b3ac2536c936978
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/sunScale.unity
+    guid: 8614b902fc2a1cf438d66bb15bcd0f8d
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/UranusScale.unity
+    guid: 653045afd8ac84149924bb074a2e3c5e
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/venusScale.unity
+    guid: 4458eab4b72065f479dbd3b6f6648cf5
+  - enabled: 1
+    path: Assets/Scenes/Astrodex.unity
+    guid: 3a2d2b6070fd87444b64f513c67508b5
+  - enabled: 1
+    path: Assets/Scenes/Planet Info/EarthInfo.unity
+    guid: 72a8214db69dc3d45967704457b37f9a
+  - enabled: 1
+    path: Assets/Scenes/Planet Info/JupiterInfo.unity
+    guid: 6b8d573ca99246147a760f45233f7bc6
+  - enabled: 1
+    path: Assets/Scenes/Planet Info/MarsInfo.unity
+    guid: 17ed3924387f4b7408ed4a389d46c67f
+  - enabled: 1
+    path: Assets/Scenes/Planet Info/MercuryInfo.unity
+    guid: c8151066a827ed64aa3ec7ce954baae4
+  - enabled: 1
+    path: Assets/Scenes/Planet Info/NeptuneInfo.unity
+    guid: ee501f53b830aab479bec2d6eea8aa52
+  - enabled: 1
+    path: Assets/Scenes/Planet Info/SaturnInfo.unity
+    guid: 01e08efe234cc344e9582df66e3811af
+  - enabled: 1
+    path: Assets/Scenes/Planet Info/UranusInfo.unity
+    guid: b013d4e8f6dfdc4468031997cf3f8606
+  - enabled: 1
+    path: Assets/Scenes/Planet Info/VenusInfo.unity
+    guid: 4a8dee20a4cca7a40ab78baa5974e63e
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/SampleScale.unity
+    guid: 39c122304b3c1ab4181e4c213688f436
+  - enabled: 0
+    path: Assets/Scenes/AR Scenes/saturnFound.unity
+    guid: 44ac7e306b9a0f64cbdca129e58d6fc9
+  - enabled: 0
+    path: Assets/Scenes/AR Scenes/mercuryFound.unity
+    guid: 47accf8a8de68204eb7f95b7b8369ff4
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Planet Info/PlutoInfo.unity
+    guid: 2d08825b113b25948bd5ab7037efeeb3
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/plutoScale.unity
+    guid: 1f50092cb3345e24eaf73f2a9af7fdf3
+  - enabled: 1
+    path: Assets/Scenes/MapLoadingScene.unity
+    guid: 53bc8e4ec8f23ef478cb947b44a1fe0a
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c14a42d9068e0db4ebbcdaa4add82409, type: 2}
